@@ -23,7 +23,7 @@ Ipconfig: Can let you know the ip address of your device as well as subnet mask 
 
 <br />
 Ipconfig  /all: It gives you addition information such as Lease information and DHCP enabled information which lets you know if you have a dynamic or static ip addressing. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%202.png"/>
+<img src="https://github.com/Rastallworth1/Command-Line-Commands/blob/main/Screenshot%20ipconfig%20_all.png"/>
 <br />
 
 
