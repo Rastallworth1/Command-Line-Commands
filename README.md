@@ -29,7 +29,7 @@ Ipconfig  /all: It gives you addition information such as Lease information and 
 
 <br />
 net use: Lets you know what drives are mapped to your device.  None are mapped in this example.   <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%204.png"/>
+<img src="https://github.com/Rastallworth1/Command-Line-Commands/blob/main/Screenshot%20net%20use.png"/>
 <br />
 
 
