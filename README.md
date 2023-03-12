@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Below are some common CMD line commands used for trouble shooting.
+Below are some common CMD line commands used for troubleshooting.
 <br />
 
 
