@@ -35,7 +35,7 @@ net use: Lets you know what drives are mapped to your device.  None are mapped i
 
 <br />
 net user domainname  /domain (net user administrator2  /domain): This requires admin rights. This gives you information on a user account such as: When a password was set, When a password will expire, When a password is changeable, and Local group membership.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%203.png"/>
+<img src="https://github.com/Rastallworth1/Command-Line-Commands/blob/main/net%20user%20domain.png"/>
 <br /> 
 
 
