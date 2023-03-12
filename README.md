@@ -17,7 +17,7 @@ Below are some common CMD line commands used for trouble shooting.
 
 <p align="center">
 Ipconfig: Can let you know the ip address of your device as well as subnet mask and default gateway<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Copying-an-account/blob/main/Screenshot%201.png"/>
+<img src="https://github.com/Rastallworth1/Command-Line-Commands/blob/main/Screenshot%20ipconfig.png"/>
 <br />
 
 
